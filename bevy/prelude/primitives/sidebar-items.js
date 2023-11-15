@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["BoxedPolygon","BoxedPolyline2d","BoxedPolyline3d","Capsule","Circle","Cuboid","Cylinder","Direction2d","Direction3d","Line2d","Line3d","Plane2d","Plane3d","Polygon","Polyline2d","Polyline3d","Rectangle","RegularPolygon","Segment2d","Segment3d","Sphere","Triangle2d"],"trait":["Primitive2d","Primitive3d"]};
